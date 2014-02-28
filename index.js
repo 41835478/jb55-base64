@@ -1,5 +1,5 @@
 var chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=';
-var bind = require('bind')
+var bind = require('component-bind')
 
 /**
  * Match a normal browsers error
